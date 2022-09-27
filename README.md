@@ -1,8 +1,8 @@
-##Hi there, I'm Kamil. :blush:
+## Hi there, I'm Kamil. :blush:
 
-###I'm on my way to becoming an iOS Developer
+### I'm on my way to becoming an iOS Developer
 
-##Connect with me
+## Connect with me
 
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
 
@@ -11,7 +11,7 @@
 <br />
 <br />
 
-##Tech I Use
+## Tech I Use
 
 <img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" width="25" height="25">
 
