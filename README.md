@@ -1,16 +1,21 @@
-### Hi there 👋
+##Hi there, I'm Kamil. :blush:
 
-<!--
-**kamilcal/kamilcal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###I'm on my way to becoming an iOS Developer
 
-Here are some ideas to get you started:
+##Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
+
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left" />][instagram]
+
+<br />
+<br />
+
+##Tech I Use
+
+<img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" width="25" height="25">
+
+[linkedin]: https://www.linkedin.com/in/kamil-çal-8a03a2121/
+[instagram]: https://www.instagram.com/kamilcal/
+
+
