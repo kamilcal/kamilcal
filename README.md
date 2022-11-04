@@ -1,6 +1,7 @@
 ## Hi there, I'm Kamil. :blush:
 
-### I'm on my way to becoming an iOS Developer
+### I'm on my way to be an iOS Developer
+
 
 ## Connect with me
 
